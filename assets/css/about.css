@@ -1,36 +1,5 @@
 /* Estilos para os textos da pagina e Titulos */
 
-header h2 > a{
-    color: white;
-    font-size: 1.8em;
-}
-
-.listaMenu > ul {
-    display: flex;
-    justify-content: center;
-}
-
-.listaMenu > ul > li {
-    padding: 0 10%;
-    font-size: 1.3em;
-    font-weight: bold;
-}
-
-a {
-    text-decoration: none;
-    color: white;
-}
-
-ul {
-    list-style-type: none;
-}
-
-/* Quando o usuario passar o mouse pelo link, o mesmo mudara de cor */
-
-header > h2 > a:hover, header > .listaMenu > ul > li > a:hover {
-    color: #3633F2;
-}
-
 
 h1 {
     font-size: 2em;
